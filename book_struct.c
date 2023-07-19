@@ -1,4 +1,5 @@
 //comment added in visual studio code.
+// comment added in github
 
 #include <stdio.h>
 #include <string.h>
