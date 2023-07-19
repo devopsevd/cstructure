@@ -1,6 +1,7 @@
 //comment added in visual studio code.
 // comment added in github
 //comment from harshita vs
+//new comment by harshi
 
 #include <stdio.h>
 #include <string.h>
