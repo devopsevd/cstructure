@@ -1,3 +1,5 @@
+//comment added in visual studio code.
+
 #include <stdio.h>
 #include <string.h>
 struct book
